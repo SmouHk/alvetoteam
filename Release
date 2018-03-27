@@ -1,8 +1,8 @@
-Origin: insanj repo
-Label: insanj
+Origin: alveto repo
+Label: alveto
 Suite: stable
 Version: 0.9
-Codename: insanj
+Codename: alveto
 Architectures: iphoneos-arm
 Components: main
-Description: insanj's breakthrough, beta, and personal repo.
+Description: alveto team breakthrough, beta, and personal repo.
